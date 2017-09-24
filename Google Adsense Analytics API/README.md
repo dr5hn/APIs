@@ -42,4 +42,4 @@ print data about your AdSense & Analytics account.
 * Adding Compatibility for Refresh Token
 
 ## For any help
-* `mail-me-at : gadadarshan[at]gmail[dot]com`
+`mail-me-at : gadadarshan[at]gmail[dot]com`
