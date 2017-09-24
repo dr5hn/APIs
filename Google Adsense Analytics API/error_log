@@ -1,0 +1,260 @@
+[28-Aug-2017 07:24:38 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[28-Aug-2017 07:24:38 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[28-Aug-2017 07:24:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[28-Aug-2017 07:26:03 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[28-Aug-2017 07:26:03 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[28-Aug-2017 07:26:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[28-Aug-2017 08:05:47 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[28-Aug-2017 08:05:47 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[28-Aug-2017 08:05:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[28-Aug-2017 09:00:34 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[28-Aug-2017 09:00:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[28-Aug-2017 09:00:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 05:49:16 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 05:49:16 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 05:49:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:11:13 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:11:13 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:11:21 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:11:21 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:11:37 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:11:37 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:11:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:13:50 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 145
+[30-Aug-2017 06:13:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 72
+[30-Aug-2017 06:16:06 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 145
+[30-Aug-2017 06:16:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 72
+[30-Aug-2017 06:16:15 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 145
+[30-Aug-2017 06:16:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 72
+[30-Aug-2017 06:16:25 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:16:25 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:16:31 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 145
+[30-Aug-2017 06:16:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 72
+[30-Aug-2017 06:19:09 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:19:09 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:19:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:19:13 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:19:13 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:19:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:24:55 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:24:55 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:24:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:25:11 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:25:11 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:25:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:41:10 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:41:10 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:41:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:53:43 UTC] PHP Notice:  Undefined variable: token in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 41
+[30-Aug-2017 06:53:43 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 42
+[30-Aug-2017 06:53:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:41) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 47
+[30-Aug-2017 06:55:33 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 43
+[30-Aug-2017 06:55:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:43) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 48
+[30-Aug-2017 06:56:00 UTC] PHP Notice:  Trying to get property of non-object in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 43
+[30-Aug-2017 06:56:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:43) in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 48
+[30-Aug-2017 09:30:56 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 151
+[30-Aug-2017 09:30:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 77
+[30-Aug-2017 09:34:54 UTC] PHP Parse error:  syntax error, unexpected '$analytics_data' (T_VARIABLE), expecting ',' or ';' in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:34:58 UTC] PHP Parse error:  syntax error, unexpected '$analytics_data' (T_VARIABLE), expecting ',' or ';' in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:39:46 UTC] PHP Notice:  Undefined index: REMOTE_HOST in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 09:41:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 154
+[30-Aug-2017 10:07:28 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 151
+[30-Aug-2017 10:07:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 77
+[30-Aug-2017 10:14:18 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 161
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:20:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 176
+[30-Aug-2017 10:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::execute() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 167
+[30-Aug-2017 10:42:01 UTC] PHP Notice:  Undefined variable: sql in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 170
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 173
+[30-Aug-2017 11:13:03 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 147
+[30-Aug-2017 11:13:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 73
+[30-Aug-2017 11:13:07 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 147
+[30-Aug-2017 11:13:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 73
+[04-Sep-2017 12:27:35 UTC] PHP Notice:  Undefined variable: data in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 148
+[04-Sep-2017 12:27:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freakonmobile/public_html/freakonmobile.com/buzzy/adsense/analytics.php on line 73
