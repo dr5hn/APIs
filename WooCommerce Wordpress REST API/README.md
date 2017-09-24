@@ -70,3 +70,6 @@ Note: Gist of code to register Menu to Rest API (https://gist.github.com/dr5hn/e
 
 ### Add to Cart
 * `http://website.com/api/add-to-cart/<id>` - add-to-cart product with api
+
+## For any help
+* `mail-me-at : gadadarshan[at]gmail[dot]com`
