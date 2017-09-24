@@ -1,0 +1,54 @@
+# Turn rewrite engine on
+Options +FollowSymlinks
+RewriteEngine on
+
+# Categories Router
+#get all categories
+RewriteRule ^products/categories/$   RestController.php?view=all-categories [nc,qsa]
+
+#get limited no. of categories
+RewriteRule ^products/categories/([^/\.]+)/?$    RestController.php?view=limited-categories&no_of_results=$1  [nc,qsa]
+
+#search categories
+RewriteRule ^products/categories/search/([^/\.]+)/?$   RestController.php?view=search-categories&text=$1 [nc,qsa]
+
+
+# Products Router
+#get all products
+RewriteRule ^products/$   RestController.php?view=all-products [nc,qsa]
+
+#get all products
+RewriteRule ^paginated-products/([^/\.]+)/?$   RestController.php?view=paginated-products&page=$1 [nc,qsa]
+
+#get limited no. of products
+RewriteRule ^products/([^/\.]+)/?$    RestController.php?view=limited-products&no_of_results=$1  [nc,qsa]
+
+#get trending products
+RewriteRule ^products/trending/([^/\.]+)/([^/\.]+)/?$    RestController.php?view=trending-products&no_of_results=$1&sort=$2  [nc,qsa]
+
+#search products by id
+RewriteRule ^products/search_by_id/([^/\.]+)/?$		RestController.php?view=search-product-by-id&id=$1 [nc,qsa]
+
+#get all products by category id
+RewriteRule ^products/category_id/([^/\.]+)/?$     RestController.php?view=get-all-product-by-category-id&id=$1 [nc,qsa]
+
+#paginated products by category id
+RewriteRule ^products/category_id/([^/\.]+)/([^/\.]+)/?$ RestController.php?view=paginated-product-by-category-id&id=$1&page=$2 [nc,qsa]
+
+#search products
+RewriteRule ^products/search/([^/\.]+)/?$		RestController.php?view=search-products&text=$1 [nc,qsa]
+
+
+#Recipes Router
+#get all recipes
+RewriteRule ^recipes/?$     RestController.php?view=all-recipes     [nc,qsa]
+
+#get recipes by id
+RewriteRule ^recipes/([^/\.]+)/?$   RestController.php?view=get-recipes-by-id&id=$1    [nc,qsa]
+
+
+#Nav Menu Router
+RewriteRule ^menu/?$       RestController.php?view=nav-menu     [nc,qsa]
+
+# Add to Cart [Sample : cart/?add-to-cart=209]
+RewriteRule ^add-to-cart/([^/\.]+)/?$RestController.php?view=add-to-cart&id=$1 [nc,qsa]

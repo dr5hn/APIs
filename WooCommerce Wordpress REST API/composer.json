@@ -1,0 +1,26 @@
+{
+    "name": "woothemes/woocommerce-api",
+    "description": "A client library for the WooCommerce REST API",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Max Rice",
+            "email": "max@maxrice.com"
+        },
+        {
+            "name": "Gerhard Potgieter"
+        }
+    ],
+    "autoload": {
+        "classmap": ["lib/woocommerce-api"]
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 5.2.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "automattic/woocommerce": "^1.3"
+    }
+}
+
+
